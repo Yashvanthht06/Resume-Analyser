@@ -1,0 +1,50 @@
+role,skills
+AI Engineer,python|machine_learning|deep_learning|tensorflow|pytorch|model_deployment|data_analysis
+Android Developer,java|kotlin|android|firebase|rest_api|ui_design
+Automation Engineer,python|selenium|test_automation|ci_cd|jenkins|debugging
+Backend Developer,python|java|spring_boot|nodejs|sql|rest_api|microservices
+Big Data Engineer,python|hadoop|spark|kafka|etl|data_engineering|aws
+Blockchain Developer,solidity|web3|smart_contracts|ethereum|cryptography
+Business Analyst,excel|sql|power_bi|tableau|requirement_analysis|kpi
+Cloud Architect,aws|azure|gcp|terraform|cloud_design|networking
+Cloud Engineer,aws|linux|docker|kubernetes|cloud_computing|monitoring
+Computer Vision Engineer,python|opencv|deep_learning|tensorflow|image_processing
+Cyber Security Analyst,network_security|siem|ethical_hacking|vulnerability_assessment
+Data Analyst,python|sql|excel|power_bi|data_visualization|statistics
+Data Engineer,python|sql|etl|airflow|data_warehouse|spark
+Data Scientist,python|machine_learning|statistics|pandas|numpy|scikit_learn
+Database Administrator,mysql|postgresql|oracle|database_management|backup|performance_tuning
+DevOps Engineer,linux|docker|kubernetes|jenkins|ci_cd|terraform
+Embedded Engineer,c|c++|microcontrollers|embedded_systems|i2c|spi|uart
+Frontend Developer,html|css|javascript|react|angular|ui_ux
+Full Stack Developer,html|css|javascript|nodejs|react|sql|rest_api
+Game Developer,c++|unity|unreal_engine|game_physics|animation
+Graphic Designer,photoshop|illustrator|ui_design|creativity|branding
+Hardware Engineer,digital_electronics|verilog|vlsi|pcb_design|testing
+IoT Engineer,arduino|raspberry_pi|mqtt|embedded_c|sensors|iot_platforms
+IT Support Engineer,networking|troubleshooting|windows|linux|hardware_support
+Java Developer,java|spring|hibernate|sql|rest_api|maven
+Machine Learning Engineer,python|scikit_learn|mlops|feature_engineering|model_tuning
+Manual Tester,test_cases|bug_tracking|functional_testing|agile|jira
+Mobile App Developer,flutter|react_native|android|ios|api_integration
+MLOps Engineer,python|docker|kubernetes|mlflow|ci_cd|model_deployment|aws
+Network Engineer,networking|routing|switching|firewalls|tcp_ip
+NLP Engineer,python|nlp|transformers|deep_learning|spacy|bert
+Penetration Tester,ethical_hacking|penetration_testing|kali_linux|network_security
+PHP Developer,php|laravel|mysql|backend_development|api_development
+Power BI Developer,power_bi|dax|data_modeling|sql|dashboarding
+Product Manager,agile|scrum|roadmapping|stakeholder_management|analytics
+Python Developer,python|django|flask|api_development|sql
+QA Engineer,test_automation|selenium|ci_cd|test_planning|debugging
+Research Scientist,python|machine_learning|deep_learning|research_methods
+Robotics Engineer,python|ros|embedded_systems|computer_vision|control_systems
+Salesforce Developer,salesforce|apex|crm|lightning|integration
+SAP Consultant,sap|erp|business_process|configuration|implementation
+Site Reliability Engineer,linux|aws|monitoring|docker|kubernetes|automation
+Software Developer,java|python|data_structures|algorithms|oop
+Solutions Architect,system_design|cloud|scalability|integration|architecture
+System Administrator,linux|windows_server|networking|security|backup
+Tableau Developer,tableau|data_visualization|sql|dashboard_design
+Technical Writer,documentation|api_docs|communication|research|editing
+UI UX Designer,figma|adobe_xd|wireframing|prototyping|design_thinking
+Web Developer,html|css|javascript|bootstrap|frontend_tools
